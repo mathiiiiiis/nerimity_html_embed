@@ -1,0 +1,16 @@
+name: nerimity_html_embed
+description: "Renders Nerimity HTML embeds as Flutter widgets for nerimobile"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
